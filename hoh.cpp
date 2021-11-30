@@ -14,7 +14,7 @@
 // C++'s implementation of reader-writer locks.
 //
 // The list provides one funciton to acquire an exlusive lock on a
-// particular node.  We use shared locks to traverse the list ot that
+// particular node.  We use shared locks to traverse the list to that
 // point.
 
 
